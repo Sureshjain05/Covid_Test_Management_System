@@ -1,0 +1,9 @@
+run the app
+http://localhost/covid-tms
+
+search xampp 
+start on apache and mysql
+
+admin
+username admin
+password Test@123
